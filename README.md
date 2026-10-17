@@ -12,5 +12,8 @@ Selama mengikuti rangkaian kegiatan Push to Start INTRIVIA 2026, saya merasa san
 ## Kesan Pesan Cluster 13    Sejauh Ini 
 Terima kasih banyak untuk Kakak Fasil Cluster yang sudah sangat sabar dan suportif mendampingi kami selama rangkaian Push to Start INTRIVIA 2026. Kakak selalu responsif ketika kami kebingungan menghadapi kendala teknis Git/GitHub, dan pembawaannya bikin suasana cluster jadi santai tapi tetap produktif.
 
+
 ## Harapan Kuliah
 Harapan saya selama kuliah adalah dapat mengembangkan keterampilan pemrograman dan pemahaman alur kerja Git/GitHub secara profesional.
+
+
