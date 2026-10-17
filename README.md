@@ -4,7 +4,7 @@
 
 | Nama Lengkap           | NIM            |    Program Studi   | Cluster | 
 |------------------------|----------------|--------------------|---------| 
-| Fayruus Fachry Epsilon | 26515020711109 | Teknik Informatika |    13   | 
+| Fayruus Fachry Epsilon | 265150207111019 | Teknik Informatika |    13   | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
 Selama mengikuti rangkaian kegiatan Push to Start INTRIVIA 2026, saya merasa sangat senang dan terbantu karena mendapatkan pemahaman praktis mengenai alur kerja Git dan GitHub. Penjelasan materi disampaikan secara terstruktur sehingga pemula seperti saya bisa mengikuti langkah demi langkah tanpa kendala berarti 
